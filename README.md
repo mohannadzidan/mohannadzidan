@@ -7,6 +7,10 @@ lately though, i'm deep in the AI rabbit hole. LangChain, LangGraph, agentic wor
 [![Email](https://img.shields.io/badge/-mohannad.s.zidan@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:mohannad.s.zidan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohannad-zidan)
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohannadzidan&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</div>
+
 ---
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
