@@ -4,8 +4,15 @@ i've been building things across fintech, logistics, SaaS, and telecom for a whi
 
 lately though, i'm deep in the AI rabbit hole. LangChain, LangGraph, agentic workflows, tool-using agents, finetuning... basically if it involves making LLMs do useful things, i'm probably already building something with it at 2 AM. not "apps with an AI button" - apps where AI *is* the architecture.
 
-[![Email](https://img.shields.io/badge/-mohannad.s.zidan@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:mohannad.s.zidan@gmail.com)
+<div align="center">
+
+[![Website](https://img.shields.io/badge/my_portfolio-white?style=flat)](https://my-great-website.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohannad-zidan)
+[![Email](https://img.shields.io/badge/-mohannad.s.zidan@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:mohannad.s.zidan@gmail.com)
+
+</div>
+
+
 
 <div align="center">
   
