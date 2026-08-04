@@ -12,13 +12,6 @@ lately though, i'm deep in the AI rabbit hole. LangChain, LangGraph, agentic wor
 
 </div>
 
-
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohannadzidan&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
