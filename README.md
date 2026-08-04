@@ -25,9 +25,6 @@ lately though, i'm deep in the AI rabbit hole. LangChain, LangGraph, agentic wor
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
-![C%23](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
@@ -39,13 +36,9 @@ lately though, i'm deep in the AI rabbit hole. LangChain, LangGraph, agentic wor
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?logo=capacitor&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white)
-![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 
 ...and more
